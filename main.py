@@ -63,7 +63,7 @@ admin_mail ='lawalhussein775@gmail.com'
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_SENDER = "joshhearns37@gmail.com"
-EMAIL_PASSWORD = "roue egvy bumj wkez"  # Use App Password if 2FA is enabled
+EMAIL_PASSWORD = ""  # Use App Password if 2FA is enabled
 
 def send_email(to_email, mention):
     """Send a dummy email notification"""
